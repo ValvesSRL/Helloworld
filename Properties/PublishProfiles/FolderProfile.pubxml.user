@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\g.desolda\source\repos\BlazorApp2\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-09-27T14:35:30.0413448Z||;True|2024-09-27T16:35:16.4482057+02:00||;True|2024-09-27T16:34:42.2870297+02:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
